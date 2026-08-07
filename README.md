@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
