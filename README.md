@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,14 +39,17 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -53,4 +58,13 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
