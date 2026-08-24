@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
