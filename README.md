@@ -17,12 +17,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0179-largest-number](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [2029-stone-game-ix](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
