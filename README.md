@@ -4,6 +4,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -37,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1510-stone-game-iv](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0179-largest-number) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/subham-raj-542/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
